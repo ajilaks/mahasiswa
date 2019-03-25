@@ -11,7 +11,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:gravity="top"
-        android:hint="Enter comments(Optional)"
+        android:hint="Update Nama"
         android:inputType="textMultiLine"
         android:scrollbars="vertical" />
 
